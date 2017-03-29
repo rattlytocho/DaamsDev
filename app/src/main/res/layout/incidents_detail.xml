@@ -56,7 +56,8 @@
         android:layout_alignBottom="@+id/textView5"
         android:layout_marginStart="18dp"
         android:layout_toEndOf="@+id/textView4"
-        android:text="Loreal" />
+        android:text="Loreal"
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/string_incident_detail"
