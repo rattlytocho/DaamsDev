@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+
+
+
+    <!-- START String incident detail-->
+        <string name="title_incident_detail">Incidencias</string>
+        <string name="client_incident_detail">Cliente</string>
+        <string name="proyect_incident_detail">Proyecto</string>
+        <string name="string_incident_detail">Cadena</string>
+        <string name="endpoint_incident_detail">Punto Venta</string>
+        <string name="status_incindent_detail">Estatus</string>
+
+
+    <!-- END String incident detail-->
+
+
+</resources>
